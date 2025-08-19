@@ -4,7 +4,7 @@
 #
 # 💻 Click on the "Run ▶" button️
 
-# 💻 In line 19, change the name variable to your own name
+# 💻 In line 20, change the name variable to your own name
 
 # 💻 Then, rerun the program.
 #       1. Click "Stop"
